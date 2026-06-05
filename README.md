@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Heritiana
+
 💻 **Full-stack developer** passionate about creating modern, user-friendly interfaces using **JavaScript**, **TypeScript**, and **React (TSX)**.
 🌍 Already building **major full-stack projects**, with expertise spanning frontend, backend, and database architecture.
 🏫 Student at **42 Antananarivo** — part of the **42 Network**, the **world's best innovation-driven university** 🏆, where learning happens through **peer-to-peer projects**, no teachers, no lectures — just pure problem solving.
@@ -7,11 +8,11 @@
 
 ### 🚀 Major Projects
 
-#### 🔒 Private Web App — TypeScript + React (MUI)
-- ✅ Fully **responsive** across all devices
-- 🌐 Supports **multiple languages** (English included)
-- ⚡ Will become a **PWA** and later adapted to **React Native**
-- 🔒 Kept **private** to protect an **original idea**
+#### 🎓 [MyScholaria](https://github.com/hrasamoe/myscholaria) — TypeScript + React (MUI) + Node.js
+- ✅ Fully **responsive** School Management System across all devices
+- 🌐 Multi-portal workspace architecture (Admin, Staff, Teacher, Student, Parent)
+- ⚡ Planned evolution into a **PWA** and later adapted to **React Native**
+- 📂 Now **Open-Source** — Check the repository!
 
 #### 🔒 Private Full-Stack Project #2
 - 🏗️ Built with a modern full-stack architecture
