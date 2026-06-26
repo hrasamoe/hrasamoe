@@ -25,13 +25,13 @@
 - 🎯 Full-stack developer with hands-on experience on **2 major real-world projects**
 - 💡 Skilled in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, and **Python**
 - 🗄️ Working with **SQL**, **MySQL**, **PostgreSQL**, **Supabase**, and **Firebase**
-- 🧠 Deepening **C programming** and low-level concepts through the 42 cursus
+- 🧠 Deepening **C and C++ programming** and low-level concepts through the 42 cursus
 - 💪 Passionate about building **responsive, scalable, production-ready apps**
 
 ---
 
 ### 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,c,python,js,ts,react,vue,express,materialui,vite,firebase,supabase,postgresql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,c,cpp,python,js,ts,react,vue,express,materialui,vite,firebase,supabase,postgresql,html,css)](https://skillicons.dev)
 
 ---
 
