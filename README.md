@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Heritiana Hasina Rasamoelina</h1>
-<h3 align="center">💻 Full-Stack Developer | 🏫 42 Antananarivo | 🚀 Building production-ready web apps</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Node.js;Student+at+42+Antananarivo+%F0%9F%8F%AB;Open+to+freelance+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:herysamuelpljv@gmail.com">
@@ -28,8 +31,7 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 
 ### 🚀 Featured Projects
 
-#### 🎓 [MyScholaria](https://github.com/hrasamoe/myscholaria) — _School Management System_
-
+#### 🎓 [MyScholaria](https://github.com/hrasamoe/myscholaria) — *School Management System*
 `TypeScript` `React` `MUI` `Node.js`
 
 - ✅ Fully **responsive** across all devices
@@ -38,7 +40,6 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 - 📂 **Open-source** — feedback and contributions welcome!
 
 #### 🔒 Private Full-Stack Project
-
 `Modern Stack` `Confidential`
 
 - 🏗️ Built with a modern, production-grade architecture
@@ -55,16 +56,33 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,git,vscode)](https://skillicons.dev)
 
 **Databases & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=postgresql,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hrasamoe&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrasamoe&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=hrasamoe&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hrasamoe&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrasamoe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrasamoe/hrasamoe/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/hrasamoe/hrasamoe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
+</p>
+
+> 💡 *Cette animation "snake" se génère automatiquement via une GitHub Action — voir la note d'installation à la fin de ce document.*
 
 ---
 
@@ -77,4 +95,19 @@ I'm available for **freelance missions**, **internships**, and **collaborative p
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrasamoe&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
+
 <p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
+
+<details>
+<summary>⚙️ Comment activer l'animation "snake" (pour toi, Heritiana)</summary>
+
+1. Assure-toi d'avoir un repo spécial nommé exactement `hrasamoe/hrasamoe` (repo "profil", même nom que ton username).
+2. Ajoute le fichier `snake.yml` fourni dans `.github/workflows/snake.yml` de ce repo.
+3. Va dans **Settings → Actions → General → Workflow permissions**, coche **"Read and write permissions"**, puis sauvegarde.
+4. Onglet **Actions** → sélectionne le workflow "Generate Snake Animation" → **Run workflow** (lancement manuel la première fois).
+5. Une branche `output` sera créée automatiquement avec les SVG — l'image dans le README s'affichera dès que cette branche existe.
+
+</details>
