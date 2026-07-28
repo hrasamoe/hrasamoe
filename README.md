@@ -98,9 +98,4 @@ I'm available for **freelance missions**, **internships**, and **collaborative p
 📘 **[Facebook](https://www.facebook.com/hrasamoe)**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrasamoe&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
-
 <p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
