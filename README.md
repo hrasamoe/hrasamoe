@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-22565.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:herysamuelpljv@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -90,8 +93,14 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 
 I'm available for **freelance missions**, **internships**, and **collaborative projects** in web development. If you're a recruiter or have an idea in mind — let's talk!
 
+🌐 **[Portfolio](https://portfolio-22565.web.app/)**
 📧 **[herysamuelpljv@gmail.com](mailto:herysamuelpljv@gmail.com)**
 📘 **[Facebook](https://www.facebook.com/hrasamoe)**
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrasamoe&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
+
 <p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
