@@ -68,7 +68,7 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrasamoe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hrasamoe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -94,20 +94,4 @@ I'm available for **freelance missions**, **internships**, and **collaborative p
 📘 **[Facebook](https://www.facebook.com/hrasamoe)**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrasamoe&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
-
 <p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
-
-<details>
-<summary>⚙️ Comment activer l'animation "snake" (pour toi, Heritiana)</summary>
-
-1. Assure-toi d'avoir un repo spécial nommé exactement `hrasamoe/hrasamoe` (repo "profil", même nom que ton username).
-2. Ajoute le fichier `snake.yml` fourni dans `.github/workflows/snake.yml` de ce repo.
-3. Va dans **Settings → Actions → General → Workflow permissions**, coche **"Read and write permissions"**, puis sauvegarde.
-4. Onglet **Actions** → sélectionne le workflow "Generate Snake Animation" → **Run workflow** (lancement manuel la première fois).
-5. Une branche `output` sera créée automatiquement avec les SVG — l'image dans le README s'affichera dès que cette branche existe.
-
-</details>
