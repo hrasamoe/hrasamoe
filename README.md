@@ -71,7 +71,7 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="./assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
