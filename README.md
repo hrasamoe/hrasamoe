@@ -85,8 +85,6 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
   </picture>
 </p>
 
-> 💡 *Cette animation "snake" se génère automatiquement via une GitHub Action — voir la note d'installation à la fin de ce document.*
-
 ---
 
 ### 💼 Open to Opportunities
