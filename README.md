@@ -59,7 +59,7 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,git,vscode)](https://skillicons.dev)
 
 **Databases & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,firebase,supabase)](https://skillicons.dev)
 
 ---
 
