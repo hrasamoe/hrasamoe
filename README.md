@@ -14,9 +14,6 @@
   <a href="https://t.me/hrasamoe">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/hrasamoe">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   <a href="https://github.com/hrasamoe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -96,7 +93,6 @@ I'm available for **freelance missions**, **internships**, and **collaborative p
 
 🌐 **[Portfolio](https://portfolio-22565.web.app/)**
 📧 **[hrasamoevj@gmail.com](mailto:hrasamoevj@gmail.com)**
-📘 **[Facebook](https://www.facebook.com/hrasamoe)**
 ✈️ **[Telegram](https://t.me/hrasamoe)**
 
 ---
