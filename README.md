@@ -91,9 +91,20 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 
 I'm available for **freelance missions**, **internships**, and **collaborative projects** in web development. If you're a recruiter or have an idea in mind — let's talk!
 
-🌐 **[Portfolio](https://portfolio-22565.web.app/)**
-📧 **[hrasamoevj@gmail.com](mailto:hrasamoevj@gmail.com)**
-✈️ **[Telegram](https://t.me/hrasamoe)**
+<p align="center">
+  <a href="https://portfolio-22565.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:hrasamoevj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/hrasamoe">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/hrasamoe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 <p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
