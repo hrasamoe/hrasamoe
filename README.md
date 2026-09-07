@@ -105,6 +105,4 @@ I'm available for **freelance missions**, **internships**, and **collaborative p
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 <p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
