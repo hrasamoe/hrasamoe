@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Heritiana Hasina Rasamoelina</h1>
+<h1 align="center">👋 Hi, I'm Heritiana Rasamoelina</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Node.js;Student+at+42+Antananarivo+%F0%9F%8F%AB;Open+to+freelance+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Node.js;Student+at+42+Antananarivo+%F0%9F%8F%AB;Currently+Employed+Full--Time+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,13 +28,14 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 - 🏫 Student at **42 Antananarivo**, part of the **42 Network** — a peer-to-peer, project-based curriculum with **no teachers, no lectures**, just real problem-solving and autonomy.
 - 🎯 Hands-on experience delivering **2 major full-stack projects**, from database design to production-ready UI.
 - 🔍 Currently deepening **C / C++** and low-level programming through the 42 cursus, alongside my web development work.
-- 🤝 Open to **freelance projects** and **team collaborations**.
+- 💼 Currently employed full-time, building and maintaining production applications.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎓 [MyScholaria](https://github.com/hrasamoe/myscholaria) — *School Management System*
+#### 🎓 [MyScholaria](https://github.com/hrasamoe/myscholaria) — _School Management System_
+
 `TypeScript` `React` `MUI` `Node.js`
 
 - ✅ Fully **responsive** across all devices
@@ -43,6 +44,7 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 - 📂 **Open-source** — feedback and contributions welcome!
 
 #### 🔒 Private Full-Stack Project
+
 `Modern Stack` `Confidential`
 
 - 🏗️ Built with a modern, production-grade architecture
@@ -53,10 +55,10 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 ### 🛠️ Tech Stack
 
 **Languages & Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,materialui,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,vite)](https://skillicons.dev)
 
 **Backend & Tools**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,git)](https://skillicons.dev)
 
 **Databases & Cloud**
 [![My Skills](https://skillicons.dev/icons?i=postgresql,firebase,supabase)](https://skillicons.dev)
@@ -87,9 +89,9 @@ I'm a **full-stack developer** passionate about building **modern, scalable, and
 
 ---
 
-### 💼 Open to Opportunities
+### 💼 Status
 
-I'm available for **freelance missions**, **internships**, and **collaborative projects** in web development. If you're a recruiter or have an idea in mind — let's talk!
+I am currently working full-time and not available for new job offers or freelance missions. Feel free to connect or check out my repositories!
 
 <p align="center">
   <a href="https://portfolio-22565.web.app/">
@@ -105,4 +107,4 @@ I'm available for **freelance missions**, **internships**, and **collaborative p
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
+<p align="center"><i>✨ Building robust systems and learning every day! 🚀</i></p>
