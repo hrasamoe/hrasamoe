@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Heritiana Rasamoelina</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Node.js;Student+at+42+Antananarivo+%F0%9F%8F%AB;Building+with+AI%2C+owning+my+code+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Node.js;Student+at+42+Antananarivo+%F0%9F%8F%AB" alt="Typing SVG" />
 </p>
 
 <p align="center">
