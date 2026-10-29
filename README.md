@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Heritiana Rasamoelina</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Node.js;Student+at+42+Antananarivo+%F0%9F%8F%AB;Employed+%26+Coding+for+Fun+%26+Studies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Node.js;Student+at+42+Antananarivo+%F0%9F%8F%AB;Building+with+AI%2C+owning+my+code+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,30 +23,23 @@
 
 ### 🧠 About Me
 
-- 💼 **Full-Stack Developer** currently employed full-time.
-- 🏫 Student at **42 Antananarivo** (peer-to-peer C/C++ & system programming).
-- 💡 I code for **fun, curiosity, and studies** — feel free to explore my repositories and contributions!
-- 🤝 Open to tech discussions, peer collaboration, and sharing ideas.
+- 💼 Full-stack developer, currently employed full-time.
+- 🏫 Student at **42 Antananarivo** (C/C++ and system programming).
+- 🤖 I use AI daily to work faster and keep improving. I read, understand and own what I ship.
+- 🤝 Open to tech discussions and collaboration.
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🎓 **[MyScholaria](https://github.com/hrasamoe/myscholaria)** — School Management System (`TypeScript`, `React`, `MUI`, `Node.js`)
-- 🔒 **Private Full-Stack Project** — Modern production architecture
+- 🎓 **[MyScholaria](https://github.com/hrasamoe/myscholaria)** — School management system (`TypeScript`, `React`, `MUI`, `Node` `Supabase`)
+- 🔒 **Private full-stack project** — Production architecture
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,vite)](https://skillicons.dev)
-
-**Backend & Tools**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,git)](https://skillicons.dev)
-
-**Databases & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=postgresql,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,vite,nodejs,express,python,c,cpp,git,postgresql,firebase,supabase&perline=8)](https://skillicons.dev)
 
 ---
 
@@ -71,7 +64,3 @@
     <img src="https://raw.githubusercontent.com/hrasamoe/hrasamoe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </picture>
 </p>
-
----
-
-<p align="center"><i>✨ Feel free to explore my code, repositories and projects! 🚀</i></p>
